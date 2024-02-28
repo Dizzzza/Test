@@ -1,1 +1,1 @@
-web: java -jar std-npp.jar
+web: java -jar target/std-npp.jar
